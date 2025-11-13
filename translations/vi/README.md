@@ -7,6 +7,13 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+# 🌐 Language / Ngôn ngữ
+
+[🇬🇧 English](../../README.md) | **🇻🇳 Tiếng Việt**
+
+---
+
 [![Giấy phép GitHub](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
 [![Nhà đóng góp GitHub](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/graphs/contributors/)
 [![Vấn đề GitHub](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)

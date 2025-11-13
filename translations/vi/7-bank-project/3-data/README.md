@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../4-state-management/README.md)
+
+---
 # Xây dựng ứng dụng ngân hàng Phần 3: Phương pháp lấy và sử dụng dữ liệu
 
 Hãy nghĩ về máy tính của Enterprise trong Star Trek - khi Captain Picard yêu cầu trạng thái của tàu, thông tin xuất hiện ngay lập tức mà không làm giao diện bị gián đoạn hay phải xây dựng lại toàn bộ. Dòng chảy thông tin mượt mà đó chính là điều chúng ta đang xây dựng ở đây với việc lấy dữ liệu động.

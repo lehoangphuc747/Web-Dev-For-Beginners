@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../5-keeping-score/README.md)
+
+---
 # Xây dựng trò chơi không gian Phần 4: Thêm tia laser và phát hiện va chạm
 
 ## Câu hỏi trước bài giảng

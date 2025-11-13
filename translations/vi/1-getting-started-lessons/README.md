@@ -7,6 +7,11 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../README.md) | [📖 Mục lục](../README.md#-các-bài-học)
+
+---
+
 # Bắt đầu với Phát triển Web
 
 Trong phần này của chương trình học, bạn sẽ được giới thiệu các khái niệm không dựa trên dự án nhưng rất quan trọng để trở thành một nhà phát triển chuyên nghiệp.

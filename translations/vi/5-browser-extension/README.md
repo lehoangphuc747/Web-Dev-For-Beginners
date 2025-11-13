@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../README.md) | [📖 Mục lục](../README.md#-các-bài-học)
+
+---
 # Xây dựng tiện ích mở rộng trình duyệt
 
 Xây dựng tiện ích mở rộng trình duyệt là một cách thú vị và hấp dẫn để suy nghĩ về hiệu suất của ứng dụng của bạn trong khi tạo một loại tài sản web khác biệt. Module này bao gồm các bài học về cách trình duyệt hoạt động, cách triển khai tiện ích mở rộng trình duyệt, cách xây dựng một biểu mẫu, gọi API, sử dụng bộ nhớ cục bộ, cũng như cách đánh giá hiệu suất của trang web và cải thiện nó.

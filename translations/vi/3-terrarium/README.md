@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../README.md) | [📖 Mục lục](../README.md#-các-bài-học)
+
+---
 # Terrarium của tôi: Một dự án học về HTML, CSS và thao tác DOM bằng JavaScript 🌵🌱
 
 Một bài tập nhỏ về kéo thả mã. Với một chút HTML, JS và CSS, bạn sẽ có thể xây dựng giao diện web, tạo kiểu cho nó, và thậm chí thêm nhiều tương tác theo ý thích.

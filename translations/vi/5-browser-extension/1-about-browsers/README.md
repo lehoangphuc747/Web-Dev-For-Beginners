@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../2-forms-browsers-local-storage/README.md)
+
+---
 # Dự án Tiện ích Mở rộng Trình duyệt Phần 1: Tất cả về Trình duyệt
 
 ![Hình vẽ minh họa về trình duyệt](../../../../translated_images/browser.60317c9be8b7f84adce43e30bff8d47a1ae15793beab762317b2bc6b74337c1a.vi.jpg)

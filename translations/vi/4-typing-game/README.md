@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../README.md) | [📖 Mục lục](../README.md#-các-bài-học)
+
+---
 # Lập Trình Dựa Trên Sự Kiện - Xây Dựng Trò Chơi Gõ Phím
 
 ## Giới Thiệu

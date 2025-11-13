@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../README.md) | [📖 Mục lục](../README.md#-các-bài-học)
+
+---
 # :dollar: Xây dựng một ngân hàng
 
 Trong dự án này, bạn sẽ học cách xây dựng một ngân hàng giả tưởng. Những bài học này bao gồm hướng dẫn về cách thiết kế ứng dụng web và cung cấp các tuyến đường, xây dựng biểu mẫu, quản lý trạng thái, và lấy dữ liệu từ API để truy xuất thông tin của ngân hàng.

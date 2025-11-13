@@ -7,6 +7,11 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../2-github-basics/README.md)
+
+---
+
 # Giới thiệu về Ngôn ngữ Lập trình và Công cụ Phát triển Hiện đại
 
 Chào bạn, nhà phát triển tương lai! 👋 Tôi có thể nói với bạn điều gì đó khiến tôi vẫn còn cảm thấy rùng mình mỗi ngày không? Bạn sắp khám phá ra rằng lập trình không chỉ là về máy tính – mà nó còn là siêu năng lực thực sự để biến những ý tưởng táo bạo nhất của bạn thành hiện thực!

@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Module tiếp theo](../../7-bank-project/README.md)
+
+---
 # Xây dựng trò chơi không gian Phần 6: Kết thúc và Khởi động lại
 
 Mỗi trò chơi tuyệt vời đều cần có điều kiện kết thúc rõ ràng và cơ chế khởi động lại mượt mà. Bạn đã xây dựng một trò chơi không gian ấn tượng với di chuyển, chiến đấu và tính điểm - giờ là lúc thêm những mảnh ghép cuối cùng để làm cho nó hoàn chỉnh.

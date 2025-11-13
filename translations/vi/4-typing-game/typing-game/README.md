@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Module tiếp theo](../../5-browser-extension/README.md)
+
+---
 # Tạo một trò chơi sử dụng sự kiện
 
 Bạn đã bao giờ tự hỏi làm thế nào các trang web biết khi bạn nhấp vào một nút hoặc nhập vào một hộp văn bản chưa? Đó chính là sự kỳ diệu của lập trình dựa trên sự kiện! Cách tốt nhất để học kỹ năng quan trọng này là xây dựng một thứ gì đó hữu ích - một trò chơi đo tốc độ gõ phím phản ứng với từng lần nhấn phím của bạn.

@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../2-forms/README.md)
+
+---
 # Xây dựng ứng dụng ngân hàng Phần 1: Mẫu HTML và định tuyến trong ứng dụng web
 
 Khi máy tính hướng dẫn Apollo 11 điều hướng đến mặt trăng vào năm 1969, nó phải chuyển đổi giữa các chương trình khác nhau mà không cần khởi động lại toàn bộ hệ thống. Các ứng dụng web hiện đại hoạt động tương tự – chúng thay đổi những gì bạn thấy mà không tải lại mọi thứ từ đầu. Điều này tạo ra trải nghiệm mượt mà, nhạy bén mà người dùng mong đợi ngày nay.

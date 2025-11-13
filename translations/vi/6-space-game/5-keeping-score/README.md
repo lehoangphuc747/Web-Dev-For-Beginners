@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../6-end-condition/README.md)
+
+---
 # Xây dựng trò chơi không gian Phần 5: Điểm số và mạng sống
 
 ## Câu hỏi trước bài giảng

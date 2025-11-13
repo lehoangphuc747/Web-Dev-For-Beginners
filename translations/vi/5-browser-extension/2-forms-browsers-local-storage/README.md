@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../3-background-tasks-and-performance/README.md)
+
+---
 # Dự án Tiện ích Trình duyệt Phần 2: Gọi API, sử dụng Local Storage
 
 ## Câu hỏi trước bài giảng

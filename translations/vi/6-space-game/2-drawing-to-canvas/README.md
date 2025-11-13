@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../3-moving-elements-around/README.md)
+
+---
 # Xây dựng trò chơi không gian Phần 2: Vẽ nhân vật chính và quái vật lên Canvas
 
 API Canvas là một trong những tính năng mạnh mẽ nhất của phát triển web để tạo ra đồ họa động, tương tác ngay trong trình duyệt của bạn. Trong bài học này, chúng ta sẽ biến phần tử HTML `<canvas>` trống thành một thế giới trò chơi đầy nhân vật chính và quái vật. Hãy nghĩ về canvas như bảng vẽ kỹ thuật số của bạn, nơi mã trở thành hình ảnh.

@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Module tiếp theo](../../8-code-editor/README.md)
+
+---
 # Xây dựng ứng dụng ngân hàng Phần 4: Khái niệm về Quản lý trạng thái
 
 ## Câu hỏi trước bài học

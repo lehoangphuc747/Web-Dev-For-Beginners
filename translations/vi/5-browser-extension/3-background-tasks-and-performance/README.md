@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Module tiếp theo](../../6-space-game/README.md)
+
+---
 # Dự án Tiện ích Trình duyệt Phần 3: Tìm hiểu về Nhiệm vụ Nền và Hiệu suất
 
 Bạn có bao giờ thắc mắc tại sao một số tiện ích trình duyệt lại hoạt động nhanh nhạy và mượt mà, trong khi những tiện ích khác lại chậm chạp? Bí mật nằm ở những gì diễn ra phía sau. Trong khi người dùng nhấp chuột xung quanh giao diện tiện ích của bạn, có cả một thế giới các quy trình nền đang âm thầm quản lý việc lấy dữ liệu, cập nhật biểu tượng và tài nguyên hệ thống.

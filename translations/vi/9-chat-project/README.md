@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../README.md) | [📖 Mục lục](../README.md#-các-bài-học)
+
+---
 # Xây dựng Trợ lý Chat với AI
 
 Bạn còn nhớ trong Star Trek, khi phi hành đoàn trò chuyện với máy tính của tàu, hỏi những câu hỏi phức tạp và nhận được câu trả lời sâu sắc không? Điều tưởng chừng như khoa học viễn tưởng vào những năm 1960 giờ đây là điều bạn có thể xây dựng bằng các công nghệ web mà bạn đã biết.

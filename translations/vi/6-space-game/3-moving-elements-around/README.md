@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../4-collision-detection/README.md)
+
+---
 # Xây dựng trò chơi không gian Phần 3: Thêm chuyển động
 
 Hãy nghĩ về những trò chơi yêu thích của bạn – điều khiến chúng trở nên hấp dẫn không chỉ là đồ họa đẹp mắt, mà còn là cách mọi thứ di chuyển và phản ứng với hành động của bạn. Hiện tại, trò chơi không gian của bạn giống như một bức tranh đẹp, nhưng chúng ta sắp thêm chuyển động để làm cho nó sống động hơn.

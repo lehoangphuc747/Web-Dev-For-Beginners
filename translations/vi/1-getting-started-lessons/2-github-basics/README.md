@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../3-accessibility/README.md)
+
+---
 # Giới thiệu về GitHub
 
 Chào bạn, nhà phát triển tương lai! 👋 Sẵn sàng tham gia cùng hàng triệu lập trình viên trên khắp thế giới chưa? Mình thực sự rất hào hứng giới thiệu với bạn về GitHub – hãy nghĩ về nó như một mạng xã hội dành cho lập trình viên, nhưng thay vì chia sẻ ảnh bữa trưa, chúng ta chia sẻ mã nguồn và cùng nhau xây dựng những điều tuyệt vời!

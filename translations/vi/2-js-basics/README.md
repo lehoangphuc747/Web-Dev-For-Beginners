@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../README.md) | [📖 Mục lục](../README.md#-các-bài-học)
+
+---
 # Giới thiệu về JavaScript
 
 JavaScript là ngôn ngữ của web. Trong bốn bài học này, bạn sẽ học những kiến thức cơ bản về nó.

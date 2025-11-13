@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Module tiếp theo](../../9-chat-project/README.md)
+
+---
 # Sử dụng Trình Soạn Thảo Mã: Làm Chủ VSCode.dev
 
 Bạn còn nhớ trong *The Matrix* khi Neo phải kết nối vào một máy tính khổng lồ để truy cập thế giới số không? Các công cụ phát triển web ngày nay lại hoàn toàn ngược lại – khả năng mạnh mẽ có thể truy cập từ bất cứ đâu. VSCode.dev là một trình soạn thảo mã trên trình duyệt, mang đến các công cụ phát triển chuyên nghiệp cho bất kỳ thiết bị nào có kết nối internet.

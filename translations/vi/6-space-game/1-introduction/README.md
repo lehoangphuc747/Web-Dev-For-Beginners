@@ -7,6 +7,10 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "vi"
 }
 -->
+
+[🏠 Trang chủ](../../README.md) | [◀️ Quay lại](../README.md) | [▶️ Bài tiếp theo](../2-drawing-to-canvas/README.md)
+
+---
 # Xây dựng trò chơi không gian Phần 1: Giới thiệu
 
 ![Hoạt ảnh trò chơi không gian hiển thị gameplay](../../../../6-space-game/images/pewpew.gif)
